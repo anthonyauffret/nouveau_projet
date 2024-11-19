@@ -1,1 +1,2 @@
 Ceci est mon premier fichier texte.
+Ceci est une deuxième phrase.
